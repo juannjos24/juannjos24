@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Tecnologías & Herramientas
 
 ```javascript
 const Juan_Jose = {
@@ -21,13 +21,13 @@ const Juan_Jose = {
      ],
   tools: [
     "Angular",
-    "Tailwind CSS",
-    "Flowbite",
     "Bootstrap 5",
-    "Blazor",
+    "Tailwind CSS",
     "MySql",
-    ".NET V8",
     "GitHub"
+    "Flowbite",
+    "Blazor",
+    ".NET V8",
     ],
   ID: ["VSCode"],
   ["Pycharm"],
