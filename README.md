@@ -1,8 +1,7 @@
 ﻿# 👨🏾‍💻 Hola, Soy Juan Jose Moreno!
 
 🎓 **Egresado de Ingeniería en Sistemas Computacionales**  
-🎓 **MBA** from [Aquantic School of Business and Technology](https://aquanticbs.com)  
-💻 **Fullstack Developer** at [Nuwe](https://nuwe.io)
+💻 **Fullstack Developer JR**
 
 ---
 
@@ -10,7 +9,16 @@
 
 ```javascript
 const Juan_Jose = {
-  code: ["PHP", "Javascript", "TypeScript","Python","HTML", "CSS", "SQL", "C#"],
+  code: [
+    "PHP",
+    "Javascript",
+     "TypeScript",
+     "Python",
+     "HTML",
+     "CSS",
+     "SQL",
+     "C#"
+     ],
   tools: [
     "Angular",
     "Tailwind CSS",
@@ -19,9 +27,11 @@ const Juan_Jose = {
     "Blazor",
     "MySql",
     ".NET V8",
-    "GitHub",
+    "GitHub"
     ],
-  ID: ["VSCode"],["Pycharm"],
-  architecture: ["microservices"]
+  ID: ["VSCode"],
+  ["Pycharm"],
+  architecture:
+  ["microservices"]
 };
 ```
