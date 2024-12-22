@@ -10,9 +10,8 @@
 
 ```javascript
 const Edgar = {
-  code: ["Javascript", "HTML", "CSS", "Matlab", "R", "SQL", "C", "C++", "Dart"],
-  tools: ["React", "Node", "Azure", "AWS", "MongoDB", "Vercel", "Heroku", "Flutter"],
-  ID: ["VSCode"],
-  design: ["Figma", "Anima", "Sketch"],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  code: ["Javascript","TypeScript","Python","HTML", "CSS", "SQL", "C#"],
+  tools: ["Angular", "Node", ".NET V8", "Blazor", "MySql"],
+  ID: ["VSCode"],  
+  architecture: ["microservices"]
 };
