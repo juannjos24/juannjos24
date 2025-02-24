@@ -1,7 +1,8 @@
 ﻿# 👨🏾‍💻 Hola, Soy Juan Jose Moreno!
 
-🎓 **Egresado de Ingeniería en Sistemas Computacionales**  
-💻 **Fullstack Developer JR**
+🎓 **Ingeniería en Sistemas Computacionales**  
+🎓 **Consultor de sistemas**  
+💻 **Software Developer for Odoo**
 
 ---
 
