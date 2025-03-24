@@ -1,41 +1,39 @@
 ﻿# 🇲🇽👨🏾‍💻 Hola, Soy Juan Jose Moreno! 
  
 🎓 **Ingeniero en Sistemas Computacionales**
-
 💻 **Software Developer for Odoo**
-
 🎓 **Consultor de Sistemas**  
-
 
 ---
 
 ## 🔧 Tecnologías & Herramientas
-
-```javascript
-const Juan_Jose = {
-  code: [
-    "Python",
-    "HTML",
-    "Javascript",
-     "TypeScript", 
-      "PHP",
-     "CSS",
-     "SQL",
-     "C#"
-     ],
-  tools: [
-    "Angular",
-    "Bootstrap 5",
-    "Tailwind CSS",
-    "MySql",
-    "GitHub"
-    "Flowbite",
-    "Blazor",
-    ".NET V8",
+```python
+Juan_Jose = {
+    "code": [
+        "Python",
+        "HTML",
+        "Javascript",
+        "TypeScript",
+        "PHP",
+        "CSS",
+        "SQL",
+        "C#"
     ],
-  ID: ["VSCode"],
-  ["Pycharm"],
-  architecture:
-  ["microservices"]
-};
+    "tools": [
+        "Angular",
+        "Bootstrap 5",
+        "Tailwind CSS",
+        "MySql",
+        "GitHub",
+        "Flowbite",
+        "Blazor",
+        ".NET V8"
+    ],
+    "IDEs": ["VSCode", "Pycharm"],
+    "architecture": ["microservices"]
+}
+
+print(Juan_Jose)
+
 ```
+
