@@ -1,8 +1,8 @@
-﻿# 👨🏾‍💻 Hola, Soy Juan Jose Moreno!
-
-🎓 **Ingeniero en Sistemas Computacionales**  
-🎓 **Consultor de Sistemas**  
+﻿# 🇲🇽👨🏾‍💻 Hola, Soy Juan Jose Moreno!
+🎓 **Ingeniero en Sistemas Computacionales**
 💻 **Software Developer for Odoo**
+🎓 **Consultor de Sistemas**  
+
 
 ---
 
@@ -11,11 +11,11 @@
 ```javascript
 const Juan_Jose = {
   code: [
-    "PHP",
+    "Python",
+    "HTML",
     "Javascript",
-     "TypeScript",
-     "Python",
-     "HTML",
+     "TypeScript", 
+      "PHP",
      "CSS",
      "SQL",
      "C#"
