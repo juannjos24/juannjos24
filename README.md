@@ -1,7 +1,7 @@
 ﻿# 👨🏾‍💻 Hola, Soy Juan Jose Moreno!
 
-🎓 **Ingeniería en Sistemas Computacionales**  
-🎓 **Consultor de sistemas**  
+🎓 **Ingeniero en Sistemas Computacionales**  
+🎓 **Consultor de Sistemas**  
 💻 **Software Developer for Odoo**
 
 ---
