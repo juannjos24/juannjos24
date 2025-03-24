@@ -26,6 +26,8 @@ Juan_Jose = {
         "Bootstrap 5",
         "Tailwind CSS",
         "MySql",
+        "Postgres SQL",
+        "Git",
         "GitHub",
         "Flowbite",
         "Blazor",
