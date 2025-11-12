@@ -14,6 +14,9 @@ Juan_Jose = {
     "code": [
         "Python",
         "HTML",
+        "XML",
+        "SAAS",
+        "Java",
         "Javascript",
         "TypeScript",
         "PHP",
@@ -22,6 +25,8 @@ Juan_Jose = {
         "C#"
     ],
     "tools": [
+        "Odoo v19",
+        "Odoo v18",
         "Angular",
         "Bootstrap 5",
         "Tailwind CSS",
@@ -34,10 +39,12 @@ Juan_Jose = {
         ".NET V8"
     ],
     "IDEs": ["VSCode", "Pycharm"],
-    "architecture": ["microservices"]
+    "Architecture": ["microservices"],
+    "Cloud": ["AWS"],
 }
 
 print(Juan_Jose)
 
 ```
+
 
