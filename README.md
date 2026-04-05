@@ -21,7 +21,7 @@ Building enterprise systems that actually solve real business problems.
 ```
 > 1.4 años liderando desarrollo de software empresarial
 > +15 módulos personalizados de Odoo en producción
-> +5 integraciones con sistemas externos (SAP, CONTPAQi, Quálitas, Shopify, CFDI)
+> +5 integraciones con sistemas externos (SAP, CONTPAQi, Quálitas)
 > Sistemas desplegados sirviendo a múltiples industrias en México
 ```
 
@@ -46,7 +46,7 @@ tech_stack = {
     "databases": ["PostgreSQL", "MySQL"],
     "integrations": [
         "REST API", "SOAP 1.2", "CFDI 4.0 (SAT)",
-        "SAP", "CONTPAQi", "Shopify", "WhatsApp API"
+        "SAP", "CONTPAQi", "WhatsApp API"
     ],
     "architecture": [
         "Modular Monolith", "Multi-tenant",
@@ -110,15 +110,7 @@ Arquitectura multi-tenant sobre una única instancia de Odoo con segregación l�
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-#### 🏛️ HOPE — Architect Firm Management
-Sistema de gestión integral para despachos de arquitectura: planificación de proyectos, seguimiento de entregables y administración de recursos.
-
-`Odoo v19` `Python` `PostgreSQL`
-
-</td>
-<td width="50%">
+<td width="100%">
 
 #### 🛡️ Quálitas — Insurance Policy Issuance
 Integración con el sistema de pólizas de Quálitas bajo protocolo SOAP 1.2. Portal web para cotización y emisión con envío automatizado de PDF vía WhatsApp.
@@ -135,8 +127,6 @@ Integración con el sistema de pólizas de Quálitas bajo protocolo SOAP 1.2. Po
 |---|---|---|
 | **Odoo ↔ SAP** | Sincronización asíncrona bidireccional de contactos, ventas e inventarios | REST API |
 | **Odoo ↔ CONTPAQi** | Generación automática y timbrado de facturas y notas de crédito desde CONTPAQi | API |
-| **CFDI 4.0 (SAT)** | Importación masiva de XML fiscales, parsing de comprobantes, mapeo UNSPSC, validación UUID | XML/lxml |
-| **Shopify → Odoo** | Flujo intercompany: datos de Shopify disparan órdenes de venta cruzadas entre compañías | REST API |
 
 ### Módulos Odoo Personalizados (+15 en producción)
 
@@ -166,7 +156,7 @@ Integración con el sistema de pólizas de Quálitas bajo protocolo SOAP 1.2. Po
 Dashboard interactivo para registro de puntos por clase con panel de estatus en tiempo real.
 
 `Angular 17` `FastAPI` `PostgreSQL` `Tailwind` `AWS EC2`
-
+🔗club.panteras.com](https://panteras-club.duckdns.org/dashboard) ·
 </td>
 <td width="33%" align="center">
 
@@ -181,7 +171,7 @@ Juego tipo trivia inspirado en "100 Mexicanos Dijeron", adaptado al contexto del
 #### 🎨 Drawing Notes — Social App
 Red social de notas de dibujo en tiempo real con canvas colaborativo (JAM).
 
-`Flutter` `WebSockets` `Canvas API`
+`Flutter` `WebSockets` `Canvas API`, `Fast API`
 
 </td>
 </tr>
@@ -215,8 +205,6 @@ Red social de notas de dibujo en tiempo real con canvas colaborativo (JAM).
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=TU-USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
-
-*"El mejor código es el que resuelve problemas reales."*
+![Visitors](https://komarev.com/ghpvc/?username=juannjos24&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
