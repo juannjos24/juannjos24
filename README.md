@@ -8,9 +8,9 @@
 
 Building enterprise systems that actually solve real business problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://TU-PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-moreno-287891371/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://juannjos24.github.io/Portafolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juannjos24@gmail.com)
 
 </div>
 
@@ -110,13 +110,15 @@ Arquitectura multi-tenant sobre una única instancia de Odoo con segregación l�
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%">
 
 #### 🛡️ Quálitas — Insurance Policy Issuance
 Integración con el sistema de pólizas de Quálitas bajo protocolo SOAP 1.2. Portal web para cotización y emisión con envío automatizado de PDF vía WhatsApp.
 
 `Odoo v19` `SOAP 1.2` `JavaScript` `AWS EC2`
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -156,7 +158,9 @@ Integración con el sistema de pólizas de Quálitas bajo protocolo SOAP 1.2. Po
 Dashboard interactivo para registro de puntos por clase con panel de estatus en tiempo real.
 
 `Angular 17` `FastAPI` `PostgreSQL` `Tailwind` `AWS EC2`
-🔗club.panteras.com](https://panteras-club.duckdns.org/dashboard) ·
+
+🔗 [club.panteras.com](https://panteras-club.duckdns.org/dashboard)
+
 </td>
 <td width="33%" align="center">
 
@@ -171,7 +175,7 @@ Juego tipo trivia inspirado en "100 Mexicanos Dijeron", adaptado al contexto del
 #### 🎨 Drawing Notes — Social App
 Red social de notas de dibujo en tiempo real con canvas colaborativo (JAM).
 
-`Flutter` `WebSockets` `Canvas API`, `Fast API`
+`Flutter` `WebSockets` `Canvas API` `FastAPI`
 
 </td>
 </tr>
@@ -183,7 +187,6 @@ Red social de notas de dibujo en tiempo real con canvas colaborativo (JAM).
 
 <div align="center">
 
-<!-- Reemplaza TU-USERNAME con tu usuario de GitHub -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juannjos24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juannjos24&layout=compact&theme=tokyonight&hide_border=true)
